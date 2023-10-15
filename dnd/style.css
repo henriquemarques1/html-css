@@ -1,0 +1,19 @@
+@charset "Utf-8";
+@font-face {
+    font-family: 'fortune';
+    src: url('fonts/Fortune.otf') format('opentype');
+}
+div{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: #b99566;
+}
+body{
+    background-color: #e0d3af;
+}
+h1{
+    font-family: 'fortune';
+    font-size: 3em;
+    font-weight: lighter;
+}
